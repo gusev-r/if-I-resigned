@@ -1,8 +1,10 @@
 # if-I-resigned
-
 evrika
+
 1) git clone с битбакета
+
 2) Зайти в папку
+
 2.1) Создать и настроить parameters.yml смотри че на серваке и сам думай
 3) composer install !!!!!!!! НЕ UPDATE БЛЯТЬ!!!!!
 4) Создать базу 
